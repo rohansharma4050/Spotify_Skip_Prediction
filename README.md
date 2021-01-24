@@ -11,10 +11,10 @@ Spotify has over 190 million active users interacting with over 40 million track
 
 ## Methodology
 
-    * Data Collection
-    * Data Processing
-    * EDA
-    * Model Selection
-    * Choosing Model
-    * Deployment
+* Data Collection
+* Data Processing
+* EDA
+* Model Selection
+* Choosing Model
+* Deployment
 
