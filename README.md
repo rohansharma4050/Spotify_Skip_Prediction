@@ -1,5 +1,5 @@
 
-# Mini Project-1
+# Mini Project
 The aim of the challenge is to predict the likelihood of a user skipping any given song during a listening session.
 
 ## Spotify Music Skips Action Prediction
